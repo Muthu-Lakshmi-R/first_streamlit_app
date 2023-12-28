@@ -5,3 +5,5 @@ streamlit.text('🐔Idly with Chickencurry-$110 2pcs')
 streamlit.text('🥗 Veg Dosa-$70')
 streamlit.text('🥣pongal-$50')
 streamlit.text('🥑🍞Avacado with cheese Tost-$120')
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
