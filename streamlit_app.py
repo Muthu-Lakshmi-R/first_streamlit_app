@@ -1,6 +1,7 @@
 import streamlit
 streamlit.title('My Parents New Healthy Diner')
-streamlit.header('Brakefast Menu')
-streamlit.text('Idly-$80 2pcs')
-streamlit.text('Dosa-$70')
-streamlit.text('pongal-$50')
+streamlit.header('Brakefast favorties')
+streamlit.text('🐔Idly with Chickencurry-$110 2pcs')
+streamlit.text('🥗 Veg Dosa-$70')
+streamlit.text('🥣pongal-$50')
+streamlit.text('🥑🍞Avacado with cheese Tost-$120')
